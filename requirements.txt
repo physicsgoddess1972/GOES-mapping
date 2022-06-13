@@ -1,0 +1,10 @@
+matplotlib
+boto3
+aiohttp
+requests
+glob
+imageio
+xarray
+fsspec
+pandas
+basemap
