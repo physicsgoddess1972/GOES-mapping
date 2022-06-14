@@ -8,3 +8,5 @@ fsspec
 pandas
 basemap
 metpy
+siphon
+h5netcdf
